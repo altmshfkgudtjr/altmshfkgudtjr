@@ -8,9 +8,9 @@
   
   <br/>
   
-  **✉ E-mail : altmgudtjr@gmail.com**
+  **✉　E-mail : altmgudtjr@gmail.com**
   
-  **📝 Blog :　 [Velog](https://velog.io/@altmshfkgudtjr)　|　[NB#log](https://blog.naver.com/PostList.nhn?blogId=altmshfkgudtjr)**　
+  **📝　Blog :　 [Velog](https://velog.io/@altmshfkgudtjr)　|　[NB#log](https://blog.naver.com/PostList.nhn?blogId=altmshfkgudtjr)**　
   
   <br/>
   
