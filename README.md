@@ -1,6 +1,6 @@
 <div align=center>
   
-  # Hello, Welcome my github page! 😀
+  # Hello, Welcome to my github page! 😀
   
   <br/>
   
