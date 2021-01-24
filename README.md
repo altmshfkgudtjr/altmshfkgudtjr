@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  # Hello, Welcome to my github page! 😀
+  # Hello, Welcome to my Github profile! 😀
   
   <br/>
   
