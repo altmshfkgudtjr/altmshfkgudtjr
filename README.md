@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=7BD1D2&height=260&section=header&text=%20%20NB%23log%20%20&fontSize=48&animation=twinkling&fontColor=333333&fontAlign=82&rotate=15&fontAlignY=40)
+[![header](https://capsule-render.vercel.app/api?type=Slice&color=7BD1D2&height=260&section=header&text=%20%20NB%23log%20%20&fontSize=48&animation=twinkling&fontColor=333333&fontAlign=82&rotate=15&fontAlignY=40)](https://github.com/altmshfkgudtjr)
 
 <div align=center>
   
@@ -23,4 +23,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=7BD1D2&section=footer&height=220&fontSize=28)
+[![footer](https://capsule-render.vercel.app/api?type=slice&color=7BD1D2&section=footer&height=220&fontSize=28)](https://github.com/altmshfkgudtjr)
